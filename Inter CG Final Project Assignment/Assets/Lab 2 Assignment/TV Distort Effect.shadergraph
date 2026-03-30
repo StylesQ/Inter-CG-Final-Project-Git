@@ -2508,7 +2508,7 @@
     "m_ObjectId": "6edf3ceeafc74652848850dca64d0665",
     "m_Title": "Noise",
     "m_Position": {
-        "x": -1860.9998779296875,
+        "x": -1861.0,
         "y": -161.0
     }
 }
@@ -2861,8 +2861,8 @@
     "m_ObjectId": "88eed3047f8d4227b7897079053bba7d",
     "m_Title": "aPPLYING gLITCH TO SCREEN",
     "m_Position": {
-        "x": -392.9999694824219,
-        "y": 105.99993896484375
+        "x": -393.0,
+        "y": 106.0
     }
 }
 
@@ -2983,7 +2983,7 @@
     "m_ObjectId": "8c9134bfc61d4870804ee6e3469a9b37",
     "m_Title": "Flickering",
     "m_Position": {
-        "x": -1980.0001220703125,
+        "x": -1980.0,
         "y": 662.0
     }
 }
