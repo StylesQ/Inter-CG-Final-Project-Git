@@ -3883,7 +3883,7 @@
     "m_ObjectId": "30fa02ed0cf84711b94b62c29e187c2e",
     "m_Title": "wIND dISOLVE",
     "m_Position": {
-        "x": -2052.999755859375,
+        "x": -2053.0,
         "y": 575.0
     }
 }
@@ -5638,7 +5638,7 @@
     "m_ObjectId": "5ab1bcec2d694cc6bb896474edbb766f",
     "m_Title": "Top Dissolve",
     "m_Position": {
-        "x": 866.9999389648438,
+        "x": 867.0,
         "y": -1658.0
     }
 }
@@ -9359,8 +9359,8 @@
     "m_ObjectId": "a4671c6b085247ba858dc8262a0ddf1e",
     "m_Title": "Wobble Vertex DFisplacement",
     "m_Position": {
-        "x": -2493.999755859375,
-        "y": -515.0000610351563
+        "x": -2494.0,
+        "y": -515.0
     }
 }
 
@@ -10003,7 +10003,7 @@
     "m_ObjectId": "b91cb6c5bc374c1eaf22287ff7148637",
     "m_Title": "OG SHADER",
     "m_Position": {
-        "x": -2647.999755859375,
+        "x": -2648.0,
         "y": -1691.0
     }
 }
