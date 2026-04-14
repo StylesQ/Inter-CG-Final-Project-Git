@@ -61,6 +61,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _FadeTexture:
+        m_Texture: {fileID: 2800000, guid: 015d117a764606b40b49773849f6571b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -114,6 +118,7 @@ Material:
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
+    - _Fade_power: 3
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -134,7 +139,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 135.58705, g: 62.25099, b: 21.105534, a: 1}
+    - _Color: {r: 77.874275, g: 35.75379, b: 12.121941, a: 1}
     - _Disolve_Speed: {r: 0.1, g: -0.5, b: 0, a: 0}
     - _Dissolve_Amount: {r: -1.1, g: -1, b: 0, a: 0}
     - _Dissolve_Scale: {r: 2, g: 0, b: 0, a: 0}
