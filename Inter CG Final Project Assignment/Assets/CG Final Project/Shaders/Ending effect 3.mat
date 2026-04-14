@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Ending effect
+  m_Name: Ending effect 3
   m_Shader: {fileID: -6465566751694194690, guid: 8f1d7f8fb3b130143b7b75fc8ebf8c4d, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -62,7 +62,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FadeTexture:
-        m_Texture: {fileID: 2800000, guid: 87a66ad868375514298c92f7369fb4f9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 015d117a764606b40b49773849f6571b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -70,7 +70,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainText:
-        m_Texture: {fileID: 2800000, guid: 820e948ff63ba8d4c8f2e356e48df7b3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 87a66ad868375514298c92f7369fb4f9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -139,13 +139,13 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 10.432951, g: 2.2853773, b: 0, a: 1}
+    - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _Disolve_Speed: {r: 0.1, g: -0.5, b: 0, a: 0}
     - _Dissolve_Amount: {r: -1.1, g: -1, b: 0, a: 0}
     - _Dissolve_Scale: {r: 4, g: 0, b: 0, a: 0}
-    - _DistortionAmount: {r: -0.34, g: -0.83, b: 0, a: 0}
-    - _Distortion_Scale: {r: 8, g: 0, b: 0, a: 0}
-    - _Distortion_Speed: {r: 0.2, g: -0.3, b: 0, a: 0}
+    - _DistortionAmount: {r: -92.4, g: -8, b: 0, a: 0}
+    - _Distortion_Scale: {r: 5.93, g: 14.14, b: 0, a: 0}
+    - _Distortion_Speed: {r: 0.51, g: -0.48, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
